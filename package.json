@@ -1,5 +1,5 @@
 {
-  "name": "my-lib",
+  "name": "neon-test-vue-2",
   "version": "0.0.0",
   "scripts": {
     "build": "rimraf dist && vue-tsc && vite build",

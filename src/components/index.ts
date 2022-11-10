@@ -1,7 +1,5 @@
-import ComponentA from './ComponentA.vue'
-import ComponentB from './ComponentB.vue'
+import Counter from './Counter.vue'
 
 export {
-  ComponentA,
-  ComponentB
+  Counter
 }
